@@ -34,4 +34,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [GNU General Public Licence v3](LICENSE.md) licensed.
+This project is [GNU General Public Licence v3](./LICENSE.md) licensed.
